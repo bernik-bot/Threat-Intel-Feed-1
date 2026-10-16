@@ -5,8 +5,8 @@
 # ---------------------------
 # Vendor / Vendor Research
 # ---------------------------
-- name: Mandiant
-  url: https://www.mandiant.com/resources/blog/rss.xml
+- name: Mandiant / Google Threat Intelligence
+  url: https://feeds.feedburner.com/threatintelligence/pvexyqv7v0v
   category: Vendor
 
 - name: CrowdStrike
@@ -46,6 +46,10 @@
 # ---------------------------
 - name: Squiblydoo Blog
   url: https://squiblydoo.blog/feed/
+  category: Research
+
+- name: Rogue Authority
+  url: https://rogueauthority.org/feed
   category: Research
     
 - name: Securonix Blog
